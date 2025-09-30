@@ -29,8 +29,8 @@ body {
 
 /* 頭貼 */
 .avatar img {
-  width: 140px;       /* 調整大小 */
-  height: 140px;
+  width: 170px;       /* 調整大小 */
+  height: 170px;
   border-radius: 50%; /* 圓形 */
   object-fit: cover;
   display: block;
